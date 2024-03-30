@@ -33,10 +33,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Node.js - api-rest-node.js](https://github.com/KicungaTI97/02_api-rest-nodejs)
+- [React.js - Rede Social](https://github.com/KicungaTI97/Projecto_Ignite-Feed_com-Reactjs)
+- [HTML, CSS - Cartão de embarque](https://github.com/KicungaTI97/Boracodar/tree/master)
+- [C - Registration and query system]()
 
 <!-- GIF -->
 <p align="left">
