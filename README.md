@@ -1,7 +1,7 @@
 # Hi 👋, I'm João Kicunga
 
 🚀 **Software Engineer | JavaScript Specialist**  
-🇧🇷 Angolan
+🇦🇴 Angolan
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
